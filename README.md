@@ -12,7 +12,7 @@ workshop - will have possibility to schedule and control reservations
 both - simple text messenger between customer & workshop
 
 
-Tracking tool: Slack
+Tracking tool: trello
 
 Team members: 
 Michał Wołowiec
