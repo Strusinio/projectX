@@ -1,6 +1,4 @@
-# Meet Up
-
-MechAppMobile
+# MechAppMobile
 
 ## Concept
 
