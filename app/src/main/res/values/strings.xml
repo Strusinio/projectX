@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MechApp</string>
+    <string name="login_btn">Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_member">Already a member? Login</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="bio_request">Tell us something about yourself</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="gender">Gender</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="phone_number_show">Phone Number: </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_account">My Account</string>
+    <string name="my_events">My Events</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="about_me">About me:</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra mattis elit, nec luctus magna laoreet nec. Nunc egestas augue velit, eu sodales velit viverra et. Pellentesque ut feugiat ligula, sed suscipit nisl. Nullam accumsan laoreet ex, pulvinar malesuada ligula convallis id. Ut et scelerisque ex. Maecenas ac lobortis quam. Morbi erat purus, sagittis congue velit id, hendrerit facilisis est. In dictum justo sit amet ex egestas pharetra. Nam mattis nisl egestas mattis euismod.</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="location_description">Location Description</string>
+    <string name="how_many_people_can_come">How many people can come ?</string>
+    <string name="when">When ?</string>
+    <string name="where">Where ?</string>
+    <string name="more_about_the_event">More about the event: </string>
+    <string name="join">JOIN</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086274709175",
+    "firebase_url": "https://pjatk-mechapp.firebaseio.com",
+    "project_id": "pjatk-mechapp",
+    "storage_bucket": "pjatk-mechapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086274709175:android:c90a487508b87da5a64f32",
+        "android_client_info": {
+          "package_name": "com.example.michalwolowiec.mechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086274709175-f30rsc3dpi15fqe3sbvijvui48he78ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.michalwolowiec.mechapp",
+            "certificate_hash": "a7fa12a5fde7a91424b0e7ef0e5807005bec1c54"
+          }
+        },
+        {
+          "client_id": "1086274709175-nql1iihv898dmd4i3hdbdmgcou83gci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMePsfbVG1V3nbQPIo0Jdj4EnnF1B3Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086274709175-nql1iihv898dmd4i3hdbdmgcou83gci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
