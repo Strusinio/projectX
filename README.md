@@ -18,7 +18,7 @@ Simply import the project into Android Studio and have the lombok plugin install
 
 Project uses: 
 
- - [Trello](https://trello.com/) as a tracking tool
+ - [Trello](https://trello.com/b/rLtjdfte/mobile-app) as a tracking tool
  - [Lombok](https://projectlombok.org/) for faster model class contruction
  - [ButterKnife](http://jakewharton.github.io/butterknife/) to bind views quickly and with less code
  - [Firebase](https://firebase.google.com/) for authentication, Data Base, and Storage
